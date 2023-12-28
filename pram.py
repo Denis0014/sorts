@@ -1,4 +1,4 @@
-def print():
+def print1():
     print(2)
     for i in range (3, 100):
         flag = True
